@@ -1,0 +1,126 @@
+.demo{
+    width: 3%;
+    height: 3%;
+    margin-left: 24rem;
+}
+.date {
+    font-size: 11px;
+    color: #c9c9c9;
+    margin-left: -5rem;
+    margin-top: 5rem;
+}
+
+.feed{
+    color: #62cb50;
+    margin-left: 25rem;
+    margin-bottom: 0.25rem;
+}
+
+.borde{
+    border-bottom: 3px solid #46bf40;
+}
+
+.line{
+    width: 50rem;
+    margin-left: 24rem;
+}
+
+.linetwo{
+    width: 50rem;
+    margin-left: 24rem;
+    margin-top: 1.8rem;
+    margin-bottom: 1.6rem;
+
+}
+
+.titulo{
+    font-size: 1.5rem;
+    margin-left: 24rem;
+    color: #2d2d2d;
+}
+
+.exemp{
+    margin-left: 24rem;
+    font-size: 0.95rem;
+    margin-top: -0.7rem;
+    color: #999;
+    font-weight: 300;
+}
+
+.readmore{
+    margin-left: 24rem;
+    font-size: 0.78rem;
+    color: #999;
+    font-weight: 300;
+}
+
+.welcome{
+    margin-left: 37.5rem;
+    font-size: 0.79rem;
+    color: #c0c0c0;
+    padding: 0.2rem;
+    border: 0.02rem solid #c0c0c0;
+    border-radius: 3rem;
+}
+
+.intro{
+    margin-left: 0.5rem;
+    font-size: 0.79rem;
+    color: #c0c0c0;
+    padding: 0.2rem;
+    border: 0.02rem solid #c0c0c0;
+    border-radius: 3rem;
+    font-weight: 300;
+}
+
+.decoration{
+    text-decoration:none;
+}
+
+.fa_custom{
+    color: #5CB85C;
+    line-height: 1.25;
+    font-size: 0.875rem;
+    border: 0.12rem solid #42aa49;
+    border-radius: 0.2rem;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+}
+
+.total{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bheart{
+    height: 2rem;
+    width: 3.5rem;
+    margin-left: 34.7rem;
+    background-color: Transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+}
+
+.bheart:hover{
+    color: #ffffff;
+    background-color: green;
+}
+
+.poptag{
+    margin-left: 80rem;
+    margin-top: -47rem;
+    width: 15rem;
+    height: 4.6rem;
+    background-color: #e8e8e8;
+}
+
+.buttintro{
+    margin-left: 80rem;
+    border-radius: 1rem;
+
+}
+
+.buttwel{
+    margin-left: 86rem;
+    border-radius: 1rem;
+}
